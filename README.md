@@ -99,7 +99,7 @@ Contributions are welcome! Feel free to open an issue or pull request if you'd l
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://linkedin.com) or [email](mailto:your.email@example.com) for feedback or questions.
+Feel free to reach out via [LinkedIn]((https://www.linkedin.com/in/muhammad-tayyab06/)) or [email](mailto:tayyab.shafique06@gmail.com) for feedback or questions.
 
 ---
 

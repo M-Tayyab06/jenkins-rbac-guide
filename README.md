@@ -4,7 +4,6 @@
 ![Stars](https://img.shields.io/github/stars/M-Tayyab06/jenkins-rbac-guide?style=social)
 ![Issues](https://img.shields.io/github/issues/M-Tayyab06/jenkins-rbac-guide)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Jenkins RBAC](https://img.shields.io/badge/Jenkins-RBAC-Guide-blue?logo=jenkins)
 
 # 🔐 Jenkins RBAC (Role-Based Access Control) Guide
 

@@ -1,3 +1,11 @@
+# Jenkins RBAC Guide
+
+![License](https://img.shields.io/github/license/M-Tayyab06/jenkins-rbac-guide?color=blue)
+![Stars](https://img.shields.io/github/stars/M-Tayyab06/jenkins-rbac-guide?style=social)
+![Issues](https://img.shields.io/github/issues/M-Tayyab06/jenkins-rbac-guide)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Jenkins RBAC](https://img.shields.io/badge/Jenkins-RBAC-Guide-blue?logo=jenkins)
+
 # 🔐 Jenkins RBAC (Role-Based Access Control) Guide
 
 This repository provides a comprehensive guide on how to configure and use **Role-Based Access Control (RBAC)** in Jenkins using the **Role Strategy Plugin**. Ideal for DevOps engineers and teams who want to manage user permissions securely and efficiently in CI/CD pipelines.
